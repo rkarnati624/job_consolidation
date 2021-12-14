@@ -71,7 +71,6 @@ pyrsistent==0.18.0
 pyspark==3.2.0
 python-certifi-win32==1.6
 python-dateutil==2.8.2
-pytz==2021.3
 pywin32==302
 pywinpty==1.1.4
 pyzmq==22.3.0
